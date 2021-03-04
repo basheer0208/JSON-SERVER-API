@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "fname": "Basheer Abbas",
+      "lname": "Shaik",
+      "email": "basheersk0208@gmail.com",
+      "pno": 9390395373,
+      "address": "Guntur"
+    },
+    {
+      "id": 5,
+      "fname": "Basheer Abbas",
+      "lname": "Shaik",
+      "email": "basheersk0208@gmail.com",
+      "pno": 9390395373,
+      "address": "Guntur"
+    },
+    {
+      "id": 6,
+      "fname": "Basheer Abbas",
+      "lname": "Shaik",
+      "email": "basheersk0208@gmail.com",
+      "pno": 9390395373,
+      "address": "Guntur"
+    },
+    {
+      "id": "7 ",
+      "fname": "shanmana",
+      "lname": "suppa",
+      "email": "abc@gmail.com",
+      "pno": "172671278",
+      "address": "gutnuru"
+    }
+  ]
+}
